@@ -117,15 +117,6 @@ A Deep Q-Network implementation in pure C++17 with no ML frameworks. Hand-built 
 
 ---
 
-### [Portfolio](https://portfolio-ten-fawn-90.vercel.app/) — Personal Portfolio Website
-`HTML` `CSS` `JavaScript` `EmailJS`
-
-A bold, animated personal portfolio site built with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools. Features scroll-reveal animations, floating gradient UI, and a contact form powered by EmailJS. Single `index.html` file that deploys anywhere instantly.
-
-📂 [`harshitak13/Portfolio`](https://github.com/harshitak13/Portfolio) · 🌐 [Live Demo](https://portfolio-ten-fawn-90.vercel.app/)
-
----
-
 ### [CYK Parser Simulator](https://github.com/harshitak13/TOC_Class_Participation) — Theory of Computation
 `HTML` `JavaScript`
 
