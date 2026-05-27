@@ -43,7 +43,7 @@ My current research — **SafeGAT**, an LLM-augmented Graph Attention RL framewo
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects and Academic Work
 
 ### [CostIQ](https://cost-iq-lovat.vercel.app/) — AI Spend Auditor
 `TypeScript` `Next.js` `Supabase` `Anthropic Claude API`
@@ -126,14 +126,14 @@ An interactive web-based simulator for the CYK parsing algorithm. Features step-
 
 ---
 
-## 🎓 Education
+## 🎓 Education 
 
 **B.Tech — Computer Science & Engineering** *(2024 – 2028)*  
 Indian Institute of Information Technology, Sri City, India
 
 ---
 
-## 💼 Experience
+## 💼 Experience and Leadership
 
 **Director, Management Department** — Entrepreneurship Cell, IIIT Sri City *(Sept 2025 – May 2026)*
 
